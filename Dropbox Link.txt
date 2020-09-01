@@ -1,0 +1,3 @@
+A Dropbox repository containing the additional head models for use with this BEM-FMM TMS modeling library is available at:
+
+https://www.dropbox.com/sh/ym136becixstj2r/AADnGHiEQRFrhOsfwwLurD_Ya?dl=0
