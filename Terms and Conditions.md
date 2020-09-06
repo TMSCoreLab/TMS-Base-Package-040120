@@ -3,7 +3,7 @@ layout: page
 title: Terms and Conditions
 ---
 
-End user license agreement [v1.0 / April 1, 2020]
+End user license agreement [v0.3 / September 5, 2020]
 
 1)	Software: The toolbox has been developed jointly at Worcester Polytechnic Institute (WPI) and Massachusetts General Hospital (MGH) by Sergey N. Makarov et al. The software is provided ‘as is’ and it is intended to be used solely for research purposes for computational modeling of Transcranial Magnetic Stimulation (TMS). The software is NOT approved for any medical diagnostic or therapeutic applications. Neither the institutions (WPI / MGH) nor the authors (S.N. Makarov et al.) take any responsibility of the correct usage or the accuracy of the results produced by the distributed software. 
 
@@ -23,6 +23,6 @@ End user license agreement [v1.0 / April 1, 2020]
 
 6)	Citation: If using this toolbox in academic research, the following article is to be cited in the published articles and presentations:
 
-Makarov et al 2020 J. Neural Eng. https://doi.org/10.1088/1741-2552/ab85b3
+https://pubmed.ncbi.nlm.nih.gov/32235065/
 
 7)	Updates: The authors reserve the right to update the software and the license agreement without further notice. Updating to a new software version implicates that the end user is agreeing to the updated license agreement that will be included as a part of the distribution package.
